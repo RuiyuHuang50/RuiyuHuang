@@ -1,4 +1,4 @@
-# Hello, I'm Ruiyu Huang@ASU MSCS 👋
+# Hello, I'm Ruiyu Huang👋
 
 I'm a passionate software developer specializing in full-stack development with a love fore building scalable applications and exploring new technologies.
 
