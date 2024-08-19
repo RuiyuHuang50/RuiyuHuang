@@ -13,9 +13,6 @@ I'm a passionate software developer specializing in full-stack development with 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RuiyuHuang50&theme=dark)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RuiyuHuang50&show_icons=true&theme=radical)
-
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ria-huang-it)
 
